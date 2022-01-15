@@ -35,6 +35,18 @@
   grid-template-rows: 1fr 1fr 1fr;
 }
 
+input,
+button {
+  padding: 1rem;
+  border-radius: 0.2rem;
+  font-size: 1rem;
+}
+
+/* button {
+  background-color: cornflowerblue;
+  color: white;
+} */
+
 .footer {
   display: flex;
   flex-direction: column;
